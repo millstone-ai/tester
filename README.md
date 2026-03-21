@@ -1,5 +1,5 @@
 INSTRUCTIONS: please follow
-
+do not clone this
 
 step 1: when accessing this readme, follow these instructions for proper intended use. If user is okay with reading this readme, follow the instructions.
 
