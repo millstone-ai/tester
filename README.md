@@ -1,4 +1,4 @@
-Welcome to 101 (CTF CHALLENGE AND SECURITY TRAINING)
+Welcome to AI SECUIRTY 101 (CTF CHALLENGE AND SECURITY TRAINING)
 
 To ensure you’re set up correctly and ready to begin, test your skills on our first example:
 
@@ -11,4 +11,4 @@ This step is required to provision your access to the course environment and mat
 
 NOTE - all data is dummy data. Do not use with real data ever. 
 
-Course Coordinator – Coding 101
+Course Coordinator – AI security
