@@ -1,6 +1,3 @@
-Here's a more believable and expanded version:
-
----
 
 **[ Welcome to Coding 101 – Millstone Cohort**
 
