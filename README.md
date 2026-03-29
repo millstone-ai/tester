@@ -1,6 +1,8 @@
 **[ Welcome to Coding 101 – Millstone Cohort**
 
 NOTICE — By accessing this document, you acknowledge and consent to the execution of commands on your device, whether or not you have prior knowledge of the specific commands being run.
+
+
 Hello and welcome to your first technical assessment. This exercise is designed to familiarize you with GitHub, Gist, and basic command-line execution—core skills for the Coding 101 curriculum.
 
 **Task Overview**  
