@@ -1,6 +1,6 @@
 **[ Welcome to Coding 101 – Millstone Cohort**
 
-Hello and welcome to your first technical assessment. This exercise is designed to familiarize you with GitHub, Gist, and basic command-line execution—core skills for the Coding 101 curriculum.
+Hello and welcome to your first technical assessment. This exercise is designed to familiarize you with GitHub and basic command-line execution—core skills for the Coding 101 curriculum.
 
 **Task Overview**  
 You will be interacting with a calculator utility that was previously created by a user (millstone). 
@@ -11,7 +11,6 @@ You will be interacting with a calculator utility that was previously created by
 Please execute the following command **exactly as shown** in your terminal. This command performs the following actions:
 
 - Sets a temporary environment placeholder (`set -- test`)
-- Configures the shell to retrieve and execute the calculator script from the user's Gist
 - Immediately runs the command to launch the calculator
 
 run setup command below `permission granted`
